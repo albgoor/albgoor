@@ -1,43 +1,17 @@
 # albgoor
 
-Full-Stack Developer focused on building modern web applications, logistics platforms, ERP systems, and interactive 3D experiences.
+Full-Stack Developer building logistics, ERP, and interactive 3D systems.
 
-Currently working with Next.js, NestJS, TypeScript, PostgreSQL, Prisma, Redis, Docker, and AI-assisted development tools.
+### Tech
+Next.js · React · NestJS · TypeScript · PostgreSQL · Prisma · Redis · Docker
 
-## What I Build
+### 3D / XR
+Three.js · React Three Fiber · Blender · VR
 
-- Full-Stack Web Applications
-- ERP & Logistics Systems
-- Terminal & Yard Management Systems
-- Warehouse Management Systems
-- REST APIs & Backend Services
-- Operational Dashboards
-- Interactive 3D Applications
-- VR Experiences
-
-## Tech Stack
-
-**Frontend**  
-Next.js · React · TypeScript · Tailwind CSS
-
-**Backend**  
-NestJS · Node.js · PostgreSQL · Prisma · Redis
-
-**Infrastructure & Tools**  
-Docker · Git · GitHub · REST APIs · Cursor · Codex
-
-**3D / XR**  
-Three.js · React Three Fiber · Blender · Virtual Reality
-
-## Currently Focused On
-
-- Logistics & ERP Software
-- Terminal Operations Systems
-- Warehouse Management Systems
-- RoRo Yard Management
-- 3D Operational Visualization
-- AI-Assisted Software Engineering
+### Focus
+Logistics Systems · ERP · Terminal Operations · Warehouse Management · 3D Visualization
 
 ## Connect
 
 GitHub: [@albgoor](https://github.com/albgoor)
+LinkedIn: [Yaseen Mohammad](https://www.linkedin.com/in/albgoor)
