@@ -14,4 +14,5 @@ Logistics Systems · ERP · Terminal Operations · Warehouse Management · 3D Vi
 ## Connect
 
 GitHub: [@albgoor](https://github.com/albgoor)
+
 LinkedIn: [Yaseen Mohammad](https://www.linkedin.com/in/albgoor)
