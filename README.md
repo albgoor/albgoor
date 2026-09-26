@@ -3,108 +3,107 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-terminal-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-terminal-light.svg">
-  <img src="assets/profile-terminal-dark.svg" width="100%" alt="Yaseen Mohammad Full-Stack Developer terminal profile">
+  <img src="assets/profile-terminal-dark.svg" width="100%" alt="Yaseen Mohammad, Full Stack Developer: animated stippled hero that morphs from a portrait into a Roman bust with the words VENI. VIDI. VICI and a rider on a rearing horse">
 </picture>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=22B8CF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=850&amp;height=45&amp;lines=Yaseen+Mohammad+%E2%80%94+Full-Stack+Developer;Next.js+%2B+NestJS+%2B+TypeScript+%2B+PostgreSQL;Building+Logistics%2C+ERP+%26+Interactive+3D+Systems" alt="Animated introduction: Yaseen Mohammad, full-stack developer building logistics, ERP, and interactive 3D systems"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=22B8CF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=850&amp;height=45&amp;lines=WATCH+ME+BUILD+%E2%80%94+Yaseen+Mohammad;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+NestJS;ERP+%26+Logistics+Systems+%C2%B7+Interactive+3D" alt="Animated introduction: Watch me build. Yaseen Mohammad, React, Next.js, Node.js and NestJS developer building ERP, logistics and interactive 3D systems"></a>
 
-<a href="https://www.linkedin.com/in/albgoor"><img src="https://img.shields.io/badge/LinkedIn-Yaseen_Mohammad-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Yaseen Mohammad on LinkedIn"></a>
-<a href="https://github.com/albgoor"><img src="https://img.shields.io/badge/GitHub-@albgoor-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View albgoor on GitHub"></a>
-<img src="https://komarev.com/ghpvc/?username=albgoor&amp;label=Profile+Views&amp;color=0891b2&amp;style=flat-square" alt="Profile view counter">
+<a href="https://www.linkedin.com/in/albgoor"><img src="https://img.shields.io/badge/LinkedIn-Yaseen_Mohammad-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Yaseen Mohammad on LinkedIn"></a>
+<a href="https://github.com/albgoor"><img src="https://img.shields.io/badge/GitHub-@albgoor-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View albgoor on GitHub"></a>
+<img src="https://komarev.com/ghpvc/?username=albgoor&amp;label=PROFILE+VIEWS&amp;color=0891b2&amp;style=for-the-badge" alt="Profile view counter">
 
 </div>
 
----
-
-## About Me
-
-I'm **Yaseen Mohammad**, a Full-Stack Developer based in Amman, Jordan, focused on building software that connects digital systems with real-world operations.
-
-I work across frontend, backend, databases, infrastructure and interactive 3D experiences, with a focus on logistics platforms, terminal operations, warehouse workflows, ERP systems and operational visualization.
-
-## Core Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres&amp;perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, NestJS, and PostgreSQL" loading="lazy">
 <br>
-<img src="https://skillicons.dev/icons?i=prisma,redis,docker,git,github,threejs,blender,vscode&amp;perline=8" alt="Prisma, Redis, Docker, Git, GitHub, Three.js, Blender, and Visual Studio Code" loading="lazy">
 
-</div>
+<h2 align="center">THE MAN BEHIND THE CODE</h2>
 
----
+<p align="center"><strong>Full Stack Developer building ERP, logistics and interactive 3D systems: software that has to survive contact with the real world.</strong></p>
 
-## What I Build
+I'm **Yaseen Mohammad**, based in Amman, Jordan. I work across the whole stack: React and Next.js on the front, Node.js and NestJS on the back, PostgreSQL and Redis underneath. The work I care about most is where software meets operations: warehouses, terminals, gates, manifests, and the dashboards people rely on every day.
+
+I like hard problems and I don't drop them halfway. When something breaks, I get back up, find out why, and ship the fix. That's the whole philosophy: build real things, keep raising the bar, and let the work speak.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>FULL-STACK PLATFORMS</strong><br><br>
-      Next.js, NestJS, TypeScript, REST APIs, authentication, RBAC, dashboards, reporting, and operational workflows.
+      <code>01</code> <strong>FULL-STACK PLATFORMS</strong><br><br>
+      Next.js, NestJS and TypeScript. REST APIs, authentication, RBAC, dashboards, reporting and operational workflows.
     </td>
     <td width="33%" valign="top">
-      <strong>LOGISTICS &amp; ERP</strong><br><br>
-      Terminal operations, warehouse management, transportation workflows, gate processes, manifests, permits, and operational reporting.
+      <code>02</code> <strong>ERP &amp; LOGISTICS</strong><br><br>
+      Terminal operations, warehouse management, transportation workflows, gate processes, manifests, permits and operational reporting.
     </td>
     <td width="33%" valign="top">
-      <strong>INTERACTIVE 3D</strong><br><br>
-      Three.js, React Three Fiber, Blender assets, yard visualization, vehicle placement, WebGL, and VR-oriented interfaces.
+      <code>03</code> <strong>INTERACTIVE 3D</strong><br><br>
+      Three.js, React Three Fiber and Blender. Yard visualization, vehicle placement, WebGL and VR-oriented interfaces.
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## `SYSTEM.CAPABILITIES`
-
-| Module | Capabilities |
-|:--|:--|
-| `FRONTEND` | Next.js · React · TypeScript · Tailwind CSS |
-| `BACKEND` | NestJS · Node.js · REST APIs · Prisma |
-| `DATA` | PostgreSQL · Redis |
-| `OPERATIONS` | Docker · Git · GitHub |
-| `3D ENGINE` | Three.js · React Three Fiber · Blender · WebGL · VR |
-| `DOMAIN` | Logistics · ERP · WMS · Terminal Operations |
-
----
-
-## `CURRENT.FOCUS`
-
-```text
-01  Scalable Full-Stack Systems      04  Interactive 3D Operations
-02  Logistics & Terminal Software    05  Performance & Clean Architecture
-03  Warehouse Management Workflows   06  AI-Assisted Development
-```
-
----
-
-## GitHub Signals
+<h2 align="center">BUILT WITH</h2>
 
 <div align="center">
 
-<a href="https://github.com/albgoor">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=albgoor&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000&amp;rank_icon=github">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=albgoor&amp;show_icons=true&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000&amp;rank_icon=github">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=albgoor&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github" alt="Yaseen Mohammad's GitHub statistics" loading="lazy">
-  </picture>
-</a>
-<a href="https://github.com/albgoor?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albgoor&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albgoor&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albgoor&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="Languages used across albgoor's public GitHub repositories" loading="lazy">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,tailwind&amp;perline=8&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,tailwind&amp;perline=8&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,tailwind&amp;perline=8&amp;theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, PostgreSQL and Tailwind CSS" loading="lazy">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,vscode,prisma,redis,threejs,blender&amp;perline=8&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,vscode,prisma,redis,threejs,blender&amp;perline=8&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,prisma,redis,threejs,blender&amp;perline=8&amp;theme=dark" alt="Git, GitHub, Docker, Visual Studio Code, Prisma, Redis, Three.js and Blender" loading="lazy">
+</picture>
 
-<sub>Cards are rendered live from public GitHub data by the community-hosted github-readme-stats service and may be briefly unavailable when it is rate-limited.</sub>
+<sub><code>LANGUAGES</code> TypeScript · JavaScript &nbsp; <code>FRONTEND</code> React · Next.js · Tailwind &nbsp; <code>BACKEND</code> Node.js · NestJS · Prisma</sub><br>
+<sub><code>DATA</code> PostgreSQL · Redis &nbsp; <code>SHIP</code> Docker · Git · GitHub · VS Code &nbsp; <code>3D</code> Three.js · Blender</sub>
 
 </div>
 
----
+<br>
+
+<h2 align="center">MY EDGE</h2>
 
 <div align="center">
 
-<code>BUILD · LEARN · SHIP · @albgoor</code>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/edge-radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/edge-radar-light.svg">
+  <img src="assets/edge-radar-dark.svg" width="100%" alt="Self-assessed radar charts. Full-stack capability: Frontend 8.5, Backend 8, Databases 7.5, DevOps 6.5, 3D and XR 7 out of 10. Domain and technical focus: ERP 8.5, Logistics 8.5, System Design 7.5, Problem Solving 8.5, Product Thinking 7.5 out of 10">
+</picture>
+
+</div>
+
+<br>
+
+<h2 align="center">LET THE NUMBERS TALK</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img src="assets/stats-dark.svg" width="100%" alt="GitHub numbers for albgoor: public repositories, stars earned, followers and following">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
+  <img src="assets/languages-dark.svg" width="100%" alt="Most used languages across albgoor's public repositories, by code size">
+</picture>
+
+<sub>Real numbers from the GitHub API, refreshed daily by a scheduled workflow. Metrics that can't be fetched reliably are left out, never estimated.</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<code>WATCH ME BUILD · @albgoor</code>
 
 </div>
