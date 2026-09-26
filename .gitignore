@@ -1,0 +1,9 @@
+.venv/
+YASEEN.jpeg
+VVV.jpg
+ALX.jpg
+__pycache__/
+tmp/
+assets/source/
+assets/generated/
+*.pyc
