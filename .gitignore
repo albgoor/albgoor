@@ -1,0 +1,7 @@
+.venv/
+YASEEN.jpeg
+__pycache__/
+tmp/
+assets/source/
+assets/generated/
+*.pyc
