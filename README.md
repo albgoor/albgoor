@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/albgoor"><img src="https://img.shields.io/badge/LinkedIn-Yaseen_Mohammad-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Yaseen Mohammad on LinkedIn"></a>
 <a href="https://github.com/albgoor"><img src="https://img.shields.io/badge/GitHub-@albgoor-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View albgoor on GitHub"></a>
-<img src="https://komarev.com/ghpvc/?username=albgoor&amp;label=PROFILE+VIEWS&amp;color=0891b2&amp;style=for-the-badge" alt="Profile view counter">
+<img src="https://hits.sh/github.com/albgoor.svg?style=for-the-badge&amp;label=PROFILE%20VIEWS&amp;labelColor=181717&amp;color=0891b2&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDEyczMuNS03IDEwLTcgMTAgNyAxMCA3LTMuNSA3LTEwIDdTMiAxMiAyIDEyeiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiLz48L3N2Zz4%3D" alt="Profile views">
 
 </div>
 
@@ -48,19 +48,13 @@ I like hard problems and I don't drop them halfway. When something breaks, I get
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,tailwind&amp;perline=8&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,tailwind&amp;perline=8&amp;theme=light">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,tailwind&amp;perline=8&amp;theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, PostgreSQL and Tailwind CSS" loading="lazy">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,vscode,prisma,redis,threejs,blender&amp;perline=8&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,vscode,prisma,redis,threejs,blender&amp;perline=8&amp;theme=light">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,prisma,redis,threejs,blender&amp;perline=8&amp;theme=dark" alt="Git, GitHub, Docker, Visual Studio Code, Prisma, Redis, Three.js and Blender" loading="lazy">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/built-with-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/built-with-light.svg">
+  <img src="assets/built-with-dark.svg" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Rust, Python, PostgreSQL, Tailwind CSS, Git, GitHub, Docker, Visual Studio Code and Cursor" loading="lazy">
 </picture>
 
-<sub><code>LANGUAGES</code> TypeScript · JavaScript &nbsp; <code>FRONTEND</code> React · Next.js · Tailwind &nbsp; <code>BACKEND</code> Node.js · NestJS · Prisma</sub><br>
-<sub><code>DATA</code> PostgreSQL · Redis &nbsp; <code>SHIP</code> Docker · Git · GitHub · VS Code &nbsp; <code>3D</code> Three.js · Blender</sub>
+<sub><code>LANGUAGES</code> TypeScript · JavaScript · Rust · Python &nbsp; <code>FRONTEND</code> React · Next.js · Tailwind</sub><br>
+<sub><code>BACKEND</code> Node.js · NestJS · PostgreSQL &nbsp; <code>SHIP</code> Git · GitHub · Docker · VS Code · Cursor</sub>
 
 </div>
 
